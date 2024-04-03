@@ -1,0 +1,5 @@
+RENCANA YANG AKAN DI REALISASIKAN
+
+- membuat video tutorial menginstal phyton
+- membuat video tutorial menginstal kali linux
+- membuat video hal apa saja yang dibutuhkan untuk menjadi seorang hacker
